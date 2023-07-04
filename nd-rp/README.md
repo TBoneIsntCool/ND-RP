@@ -18,6 +18,6 @@ To shut the server down, head to `📡︱server-sessions` and do `?ssd`. This wi
 
 
 
-Poll:
+**Poll:**
 
 To make a poll to the server for if they want to do a SSU, head to `📡︱server-sessions` and do `?poll SSU @everyone "Yes" "No"`. This will ping everybody to vote for a SSU. If the majority votes "Yes", within 5 minutes, SSU, if they vote no, delete the message.&#x20;
