@@ -13,4 +13,4 @@ Please take note of the following important points:
 
 We believe in a fair and compassionate approach to maintain a positive community, and we trust our staff members to use their best judgment in applying these guidelines. Thank you for your dedication to ensuring a great roleplaying experience for all!
 
-<figure><img src=".gitbook/assets/image_2023-07-03_220412990.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/punishm,ents.png" alt=""><figcaption></figcaption></figure>
