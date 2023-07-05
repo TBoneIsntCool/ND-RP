@@ -19,7 +19,7 @@ The image above depicts how the shoulder to shoulder should be setup every time.
 
 About 5 minutes before you plan to bring all, send this message.
 
-`:h Attention! Conclude your roleplays as an STS event is about to start! Ensure you are ready for teleportation.`
+`:h ⚠️ Attention! Conclude your roleplays as an STS event is about to start! Ensure you are ready for teleportation.`
 
 Then, after roughly 5 minutes, run a few commands.&#x20;
 
