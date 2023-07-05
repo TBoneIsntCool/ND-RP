@@ -65,7 +65,7 @@ That will conclude the rules section, then, you will do a avatar check. All staf
 
 
 
-Finally, we will do a discord check. The host will send the message `:m✔️ We are almost complete with the STS, please standby whilst we do a dizzy check. Please be prepared to ping the staff that comes by you.` If a user does not ping you, or states they're not inside of the discord, tell them `Please join by using the following code -> .gg/sRymWkacaX` If they cannot or do not join, kick them. **DO NOT FORGET TO LOG IT INSIDE OF MELONY.**
+Finally, we will do a discord check. The host will send the message `:m ✔️ We are almost complete with the STS, please standby whilst we do a dizzy check. Please be prepared to ping the staff that comes by you.` If a user does not ping you, or states they're not inside of the discord, tell them `Please join by using the following code -> .gg/sRymWkacaX` If they cannot or do not join, kick them. **DO NOT FORGET TO LOG IT INSIDE OF MELONY.**
 
 
 
