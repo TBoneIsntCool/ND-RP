@@ -39,6 +39,8 @@ After teleportation, make sure all staff are nearby you, then the host will run 
 
 After everything is setup, we will now go over the rules of the game. Please copy and paste each message roughly 10 seconds apart to ensure every member has read the message. Make sure to copy and paste these messages exactly, as these have been tested from Roblox censorship.
 
+`:m 👋 Welcome to the STS (Shoulder To Shoulder). Here, we will be going over the rules of the server, because multiple people are failing to comply with them. Let's get started`
+
 `:m Fail Roleplay: Fail Roleplay is not permitted, this is when a player fails to Roleplay realistically. This will result in a logged warning.`
 
 `:m Fear Roleplay: Fear Roleplay is that when a user is being threatened or in danger. They must follow the commands of the user threatening them. You must act fearful. Failure to do so will result in a logged warning.`
@@ -71,7 +73,7 @@ Finally, we will do a discord check. The host will send the message `:m ✔️ W
 
 ## Concluding STS:
 
-Finally, after all of that, we can conclude the STS. Please have the host send the message `:m ✅We are complete with the STS. Please continue roleplay, you are dismissed.` Remove the staff vehicles, cones, and fences, and resume normal roleplay.
+Finally, after all of that, we can conclude the STS. Please have the host send the message `:m ✅ We are complete with the STS. Please continue roleplay, you are dismissed.` Remove the staff vehicles, cones, and fences, and resume normal roleplay.
 
 
 
