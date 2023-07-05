@@ -31,7 +31,7 @@ Then, after roughly 5 minutes, run a few commands.&#x20;
 
 ## Getting Players to where they need to be (For Host Only):
 
-After teleportation, make sure all staff are nearby you, then the host will run the command `:m ⚠️Please line up on the yellow line. Failure to do so will result in a kick.` After you run the command, if anyone does not line up, you ask them twice or three times to get on the yellow line, if they do not follow instructions, kick them. **DO NOT FORGET TO LOG IT INSIDE OF MELONY.**
+After teleportation, make sure all staff are nearby you, then the host will run the command `:m ⚠️ Please line up on the yellow line. Failure to do so will result in a kick.` After you run the command, if anyone does not line up, you ask them twice or three times to get on the yellow line, if they do not follow instructions, kick them. **DO NOT FORGET TO LOG IT INSIDE OF MELONY.**
 
 
 
