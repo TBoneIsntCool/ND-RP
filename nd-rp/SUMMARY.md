@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Melony Guide](README.md)
+* [Melonly Guide](README.md)
 * [SSD & SSU Guide](<README (1).md>)
 * [Staff Guide](staff-guide.md)
 * [Punishment Guide](punishment-guide.md)
