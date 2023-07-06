@@ -27,3 +27,9 @@ Once accepted, you will see the staff panel, which should look something like th
 
 
 **LOAs:** LOA stands for "Leave Of Absence". If for any reason you will be gone and can not hit your quota, please fill out a LOA immediatley. This will then tell us that you will not have to hit your quota for the week(s).
+
+
+
+## What is a ban bolo?
+
+A ban bolo is something for users that are below admin. Since you cannot ban, you must file a Ban Bolo. This will tell a admin to ban the user for you.
