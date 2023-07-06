@@ -32,4 +32,4 @@ Once accepted, you will see the staff panel, which should look something like th
 
 ## What is a ban bolo?
 
-A ban bolo is something for users that are below admin. Since you cannot ban, you must file a Ban Bolo. This will tell a admin to ban the user for you.
+A ban bolo is something for users that are below admin. Since moderators cannot ban, you must file a Ban Bolo. This will tell a admin to ban the user for you.
