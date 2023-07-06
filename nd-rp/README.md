@@ -2,7 +2,7 @@
 
 ## Why we use Melonly:
 
-We use Melonly for a multitude of reasons. The first, we can keep track of who did what. Melony is a logging system, so we can know who took action, and if it was proper. Second of all, we can keep track of your shifts. When going on duty, you must start a shift, so we can keep track, and see if you reach your quota. It is mandatory you go on/off shift when needed.
+We use Melonly for a multitude of reasons. The first, we can keep track of who did what. Melonly is a logging system, so we can know who took action, and if it was proper. Second of all, we can keep track of your shifts. When going on duty, you must start a shift, so we can keep track, and see if you reach your quota. It is mandatory you go on/off shift when needed.
 
 
 
